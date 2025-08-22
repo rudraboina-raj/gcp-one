@@ -1,2 +1,1 @@
 # gcp-practice
-# gcp-practice
